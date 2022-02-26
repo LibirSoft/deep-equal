@@ -3,7 +3,7 @@ Deep-equal is object compare module for deno.js.
 
 ## Install
 ```bash
-deno install blablabla
+deno install https://raw.githubusercontent.com/LibirSoft/deep-equal/master/mod.ts
 ```
 
 ## Usage
