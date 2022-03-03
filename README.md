@@ -1,15 +1,10 @@
 # deep-equal
 Deep-equal is object compare module for deno.js.
 
-## Install
-```bash
-deno install https://raw.githubusercontent.com/LibirSoft/deep-equal/master/mod.ts
-```
-
 ## Usage
 
 ```typescript
-import {equal} from "../mod.ts";
+import {equal} from "https://raw.githubusercontent.com/LibirSoft/deep-equal/master/mod.ts";
 
 //usage
 console.log(equal({ name: "jhon" }, { name: "jhon" })); // true
