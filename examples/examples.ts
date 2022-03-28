@@ -26,7 +26,7 @@ console.log(equal(a,copyOfa));
 const number = 5;
 const number2 = 2;
 
-console.log(equal(number, number2))
+console.log(equal(number, number2));
 
 const nanObject1 = NaN;
 const nanObject2 = NaN;
