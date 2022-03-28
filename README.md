@@ -19,4 +19,4 @@ For more examples you can check examples folder.
 
 ## TODO
 
-Tests are coming soon
+- [ ] Unit tests
